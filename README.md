@@ -15,13 +15,11 @@ Instructions:
 	- My interpreter was set to python 3.8 and 3.9 during testing
 - The code will output to the console, just press enter to progress through the outputted data  
 
-
 The Problem:
 
 Constraints:
   - shopping, once bought, can only be stored overnight, and must be dispatched the following day.
   - only one shop can be visited per day 
-  - 
 
 Considering all of the constraints that must be satisfied, it is clear that each household’s shopping must
 be delivered on consecutive days. To achieve this, however, substitutions can be made if necessary. It is
