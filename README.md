@@ -1,5 +1,5 @@
 # Automated-Shopping-and-Delivery-Planner
-An automated system that reads data in the form of customer orders and outputs a shopping and delivery schedule to satisfy certain contstraints.
+An automated system that reads data in the form of customer orders and outputs a shopping and delivery schedule to satisfy certain contstraints. The implementation follows a generate and test strategy to navigate the search space and find the optimal solution. 
 
 Instructions:
 
